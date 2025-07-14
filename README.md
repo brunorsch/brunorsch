@@ -1,7 +1,8 @@
 ### Bruno R. Schmidt 🧠💻
 
-Sou desenvolvedor desde 2020 e brinco com código desde lá por 2014, na epoca com Minecraft, onde tudo começou. Não por acaso, a linguagem que trabalho é Java! Curioso por natureza, gosto de entender o *porquê* das coisas, não só o *como*.  
-Por aqui tu vai encontrar meus projetos pessoais, geralmente umas brincadeirinhas, pouca coisa a sério. Mexo muito com Kotlin, TS/JS e Go no tempo livre.
+Sou desenvolvedor desde 2020 e brinco com código desde lá por 2014, na epoca fazendo plugins para servidor de Minecraft, onde tudo começou. Não por acaso, a linguagem que
+uso no trabalho é Java! Curioso por natureza, gosto de entender o *porquê* das coisas, não só o *como*.  Por aqui tu vai encontrar meus projetos pessoais, 
+geralmente umas brincadeirinhas, pouca coisa a sério. Mexo muito com Kotlin, TS/JS e Go no tempo livre.
 
 ---
 

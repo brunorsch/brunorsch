@@ -13,7 +13,7 @@ geralmente umas brincadeirinhas, pouca coisa a sério. Mexo muito com Kotlin, TS
 - `Go`
 - `Dart/Flutter`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorsch&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](http://stats.brunorsch.dev.br/api/top-langs/?username=brunorsch&layout=compact&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

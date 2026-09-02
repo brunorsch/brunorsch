@@ -17,4 +17,6 @@ geralmente umas brincadeirinhas, pouca coisa a sério. Mexo muito com Kotlin, TS
 
 ---
 
+[roteador](https://192.168.100.1)
+
 > “Good software, like wine, takes time.”
